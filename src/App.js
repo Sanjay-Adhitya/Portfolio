@@ -11,7 +11,7 @@ function App() {
   const exp = expdata["data"]
   return (
     <div className="App">
-      {/* <div>
+      <div>
         <PortfolioIntro 
           name="Sanjay Adjhitya S"
           description="Python Developer"
@@ -19,7 +19,7 @@ function App() {
         />
         <JobExperience jobExperiencesList={jobexp}/>
         <Experience projectsList={exp} />
-      </div> */}
+      </div>
     </div>
   );
 }
