@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "title": "HealthCare Device Integration Pipeline",
+            "description": [
+                "1. Design, Develop, and maintain ETL pipelines to extract data from various sources and transform it according to business rules, and load it into target database using tools such as Azure data Factory",
+                "2. Design, implement and deploy azure solutions, leveraging services like azure functions, Azure storage, Azure SQL Database.",
+                "3. Implement CI/CD pipelines using tools like Jenkins to automate build, and deployment process for delivery",
+                "4. Developed serverless azure functions based on Time and HTTP triggers for processing of records",
+                "5. Worked in agile environment, participate in sprint planning, and contribute to the development and delivery of user stories and project milestones.",
+                "6. Collaborate with cross functional teams, participate in code reviews, and maintain documentation for code , system architecture and deployment process."
+            ],
+            "year": "2021 Dec - Present",
+            "skills": [
+                "Python",
+                "Mysql and SQL",
+                "Git",
+                "Azure Functions",
+                "Azure Blobs and Data Lake",
+                "REST API",
+                "Jwt Authorization and python"
+            ],
+            "imageUrl": "../Assets/Programmer.jpg"
+        },
+        {
+            "title": "Flask API and Development",
+            "description": [
+                "1. Developed and maintained a Flask-based API to handle healthcare organization data on the Azure cloud platform.",
+                "2. Implemented endpoints for creating, updating, and retrieving organization data using HTTP requests (POST, PUT, GET).",
+                "3. Containerization of the API is carried out using Docker, and management of Docker images is through the Azure Container Registry.",
+                "4. Containerization of the API is carried out using Docker, and management of Docker images is through the Azure Container Registry."
+            ],
+            "year": "1 Sep, 2022 - Present",
+            "skills": [
+                "Python",
+                "SQL",
+                "Git",
+                "Flask",
+                "REST API"
+            ],
+            "imageUrl": "../Assets/HelloWorld.jpg"
+        }
+    ]
+}

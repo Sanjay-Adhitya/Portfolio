@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "company": "Gold Coast It Solutions",
+            "position": "Software Developer Level 1",
+            "points": [
+                "1. Designed and implemented a highly scalable data processing pipeline using Azure Functions to handle the ingestion, transformation, and consumption of FHIR health records.",
+                "2. Experience in developing custom Python scripts to parse and transform FHIR data into a format that could be easily processed by downstream systems.",
+                "3. Leveraged asynchronous programming techniques such as async/await to improve the performance and responsiveness of the pipeline, reducing overall latency and cost.",
+                "4. Developed REST API's using Azure Database for MySQL [IaaS] and Azure Functions for providing clients with a platform to consume using multiple requests.",
+                "5. Developed End to End solution using Azure Data Lake Storage, Azure Database for MySQl and Azure Functions for providing clients with a platform to consume FHIR records.",
+                "6. Familiar with Azure services deployment via jenkins.",
+                "7. Developed multithreaded applications in Python to improve performance and optimize resource utilization."
+            ],
+            "duration": "Aug 2021 - Present",
+            "notice": "Notice Period 30 days Negotiable"
+        }
+    ]
+}

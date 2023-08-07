@@ -1,0 +1,35 @@
+.job-experience-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.section-heading {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.job-experience-list {
+  list-style: none;
+  padding: 0;
+}
+
+.job-experience-item {
+  margin-bottom: 1rem;
+}
+
+.company-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.position {
+  margin-top: 0.5rem;
+  color: #ffffff;
+}
+
+.duration {
+  margin-top: 0.25rem;
+  color: #ffffff;
+}
